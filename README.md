@@ -16,17 +16,18 @@ Telepítés
 
 A böngészőben telepítve kell, hogy legyen valamilyen Greasemonkey-kompatibilis
 userscript manager, pl. Firefoxhoz [Greasemonkey] (https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/)
-vagy Chrome-hoz / Safarihoz [Tampermonkey] (https://tampermonkey.net/).
+vagy Chrome-hoz/Safarihoz [Tampermonkey] (https://tampermonkey.net/).
 
 Ha ez megvan, akkor a Greasy Forkról lehet telepíteni a szkriptet:
 
 https://greasyfork.org/en/scripts/13315-clean-dia-html
 
-Inaktiválás
------------
+Letiltás/engedélyezés
+---------------------
 
-Ha eredeti formában akarjuk olvasni a böngészőben a DIA-műveket, inaktiváljuk
-a szkriptet.
+Ha eredeti formában akarjuk olvasni a böngészőben a DIA-műveket, ne felejtsük el
+letiltani a szkriptet. Később pedig, ha ismét tisztított HTML-re van szükségünk, 
+engedélyezzük újra.
 
 Visszajelzés
 ------------
