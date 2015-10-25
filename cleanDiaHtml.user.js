@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Clean DIA HTML
-// @namespace    tag:tbitai.github.io,2015-10-24:Clean_DIA_HTML
+// @namespace    https://github.com/tbitai/clean-dia-html
 // @version      1.0
 // @author       Tamás Bitai
 // @description  Digitális Irodalmi Akadémia HTML tisztító (e-könyv készítéshez)

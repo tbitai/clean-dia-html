@@ -3,7 +3,7 @@ Clean DIA HTML
 
 Digitális Irodalmi Akadémia HTML tisztító (e-könyv készítéshez)
 
-![Előtte és utána](./before-after.png)
+![Előtte és utána](https://raw.githubusercontent.com/tbitai/clean-dia-html/master/before-after.png)
 
 A szkript egyelőre egy dolgot csinál: leszedi az oldalszámokat.
 Így az oldal a böngészőből elmentve használható e-könyv szerkesztéséhez,
