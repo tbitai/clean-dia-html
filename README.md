@@ -5,11 +5,7 @@ Digitális Irodalmi Akadémia HTML tisztító (e-könyv készítéshez)
 
 ![Előtte és utána](https://raw.githubusercontent.com/tbitai/clean-dia-html/master/before-after.png)
 
-A szkript egyelőre egy dolgot csinál: leszedi az oldalszámokat.
-Így az oldal a böngészőből elmentve használható e-könyv szerkesztéséhez,
-pl. Calibrével EPUB-ot lehet belőle készíteni. Ha később találkozom olyan
-művekkel, ahol más tisztítási művelet is szükséges, vagy kérés érkezik,
-akkor bővíteni fogom a programot.
+A Clean DIA HTML egy böngészőbe telepíthető szkript, ami átalakítja a Digitális Irodalmi Akadémia oldalait. Egyelőre egy dolgot csinál: leszedi az oldalszámokat. Így egy oldal a böngészőből elmentve használható e-könyv szerkesztéséhez, pl. Calibrével EPUB-ot lehet belőle készíteni. Ha később találkozom olyan művekkel, ahol más tisztítási művelet is szükséges, vagy kérés érkezik, akkor bővíteni fogom a programot.
 
 Telepítés
 ---------
